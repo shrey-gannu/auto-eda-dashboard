@@ -6,7 +6,7 @@ To access all of the files I recommend you fork this repo and then clone it loca
 
 ### Prerequisites
 
-You wil need to install the following onto your machine:
+You will need to install the following onto your machine:
 python 3.6
 seaborn
 matplotlib
